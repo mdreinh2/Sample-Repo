@@ -6,3 +6,4 @@ Practicing commits, branches, and markdown!
 - Committing changes
 - Branching and merging
 - Using Markdown
+- Practiced creating a branch!
